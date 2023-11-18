@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCompute", "lib\AreaCompute.csproj", "{721BE064-4B5A-461E-A1F2-9F1AFA813F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{DD09EA0E-DF93-49DC-9652-DC68F87FB2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usage_example", "usage_example\usage_example.csproj", "{AEC5D9BB-B4DC-4DD9-9DED-72F9B9DF0AF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{721BE064-4B5A-461E-A1F2-9F1AFA813F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721BE064-4B5A-461E-A1F2-9F1AFA813F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721BE064-4B5A-461E-A1F2-9F1AFA813F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721BE064-4B5A-461E-A1F2-9F1AFA813F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD09EA0E-DF93-49DC-9652-DC68F87FB2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD09EA0E-DF93-49DC-9652-DC68F87FB2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD09EA0E-DF93-49DC-9652-DC68F87FB2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD09EA0E-DF93-49DC-9652-DC68F87FB2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC5D9BB-B4DC-4DD9-9DED-72F9B9DF0AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC5D9BB-B4DC-4DD9-9DED-72F9B9DF0AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC5D9BB-B4DC-4DD9-9DED-72F9B9DF0AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC5D9BB-B4DC-4DD9-9DED-72F9B9DF0AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
